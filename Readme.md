@@ -1,6 +1,6 @@
 Tools
 -----------------------------
-1. Bahasa Java 
+1. Java 
 2. Eclipse (IDE)
 3. Spring boot (Framework)
 4. Compiler (Maven)
@@ -19,11 +19,11 @@ Run:
 	open cmd 
 	git clone https://github.com/drei54/bbw-pulsa.git [enter]
 3. Setting DB
-	a. Edit application.propertis di folder bbw-pulsa\src\main\resources\
+	a. Edit application.propertis in folder bbw-pulsa\src\main\resources\
 		i spring.datasource.url = jdbc:mysql://localhost:3306/{database_name}?useSSL=false
 		ii. spring.datasource.username = {username}
 		iii. spring.datasource.password = {password}
-	b. Import Database db.08-03-2018.sql di folder bbw-pulsa\db\
+	b. Import Database db.08-03-2018.sql in folder bbw-pulsa\db\
 
 4. Run Apps
 	a. open cmd
