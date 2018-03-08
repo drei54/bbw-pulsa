@@ -1,4 +1,4 @@
-TOOLS
+Tools
 -----------------------------
 1. Bahasa Java 
 2. Eclipse (IDE)
@@ -7,11 +7,11 @@ TOOLS
 5. Mysql (Database)
 6. Git (Repository)
 
-GIT REPOSITORY
+GIT Repository
 ----------------------------
 https://github.com/drei54/bbw-pulsa.git
 
-RUN:
+Run:
 -----------------------------
 1. Install Maven
 	https://maven.apache.org/install.html
@@ -31,7 +31,7 @@ RUN:
 	c. mvn clean install
 	d. mvn spring-boot:run
 
-TEST
+Test
 ---------------------------
 1. open browser
 2. go to http://localhost:8083
